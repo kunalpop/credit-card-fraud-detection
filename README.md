@@ -1,4 +1,4 @@
-# Fraud Detection API - Deploy to Render
+# Creadit Card Fraud Detection API - Deploy to Render
 
 This folder contains everything needed to deploy your fraud detection API to Render.com.
 
@@ -132,3 +132,4 @@ Deploy_Render/
     ├── model_metadata.json
     └── feature_stats.json
 ```
+
