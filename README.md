@@ -1,4 +1,8 @@
-# Creadit Card Fraud Detection API - Deploy to Render
+# Creadit Card Fraud Detection
+## Models
+- Random Forest
+- XGBoost
+- Ensemble with soft voting
 
 This folder contains everything needed to deploy your fraud detection API to Render.com.
 
