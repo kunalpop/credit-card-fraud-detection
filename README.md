@@ -14,7 +14,7 @@
 ## Models
 - Random Forest
 - XGBoost
-- Ensemble with soft voting
+- Ensemble of RF & XGBoost with soft voting
 
 This folder contains everything needed to deploy your fraud detection API to Render.com.
 
@@ -147,5 +147,7 @@ Deploy_Render/
     ├── random_forest_pipeline.pkl
     ├── model_metadata.json
     └── feature_stats.json
+└── notebooks/             # Jupyter notebook files (add after training)
+    ├── Fraud_Detection_Training.ipynb
 ```
 
