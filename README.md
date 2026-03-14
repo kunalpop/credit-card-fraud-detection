@@ -16,13 +16,11 @@
 - XGBoost
 - Ensemble of RF & XGBoost with soft voting
 
-This folder contains everything needed to deploy your fraud detection API to Render.com.
-
 ## Quick Deployment Guide (5 Steps)
 
 ### Step 1: Copy Your Trained Models
 
-After running the training notebook (L6.1), copy your models:
+After running the training notebook, copy your models:
 
 ```bash
 # From Part1_Training folder
