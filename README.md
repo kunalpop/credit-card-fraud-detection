@@ -6,7 +6,7 @@
 
 This folder contains everything needed to deploy your fraud detection API to Render.com.
 
-## Quick Deploy (5 Steps)
+## Quick Deployment Guide (5 Steps)
 
 ### Step 1: Copy Your Trained Models
 
