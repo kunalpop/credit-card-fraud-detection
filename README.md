@@ -1,4 +1,16 @@
 # Creadit Card Fraud Detection
+## Features
+### Cross-Source Features (combine data from multiple tables):
+- Customer's age at transaction
+- Days until card expiration
+
+### Behavioral Features (window aggregations over time):
+- Distance between consecutive transactions (Haversine)
+- 4h moving average of transaction amounts
+- 4h moving std dev (high variance = suspicious)
+- Transaction frequency in 4h window
+- 4h moving average of location changes
+
 ## Models
 - Random Forest
 - XGBoost
